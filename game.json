@@ -56,7 +56,21 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mask Dude_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9928a8ae566c02da66833f5eb601adf11b942091be38dfaec8261d925df1e48c_Mask Dude_Idle_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Mask Dude/9928a8ae566c02da66833f5eb601adf11b942091be38dfaec8261d925df1e48c_Mask Dude_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
@@ -65,7 +79,7 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/level-1"
     }
   ],
   "externalEvents": [],
