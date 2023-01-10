@@ -32,8 +32,8 @@
       "name": "PlayerOne",
       "persistentUuid": "4ab646ff-8485-4de5-ac81-bbf45f07b6f7",
       "width": 381,
-      "x": 139,
-      "y": 181,
+      "x": 42,
+      "y": 22,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -91,31 +91,7 @@
       ]
     }
   ],
-  "events": [
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ]
-    }
-  ],
+  "events": [],
   "layers": [
     {
       "ambientLightColorB": 0,
